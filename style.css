@@ -116,3 +116,15 @@ form .option.correct{
 .container .result-overlay .final-result{
     font-size: 5rem;
 }
+.container .placeHolder{
+    position: absolute;
+    top:0;
+    left: 0;
+    height:100%;
+    background-image: url(./placeholder.png);
+    background-color:rgb(40,40, 44);
+    background-position: center;
+    background-size: 90%;
+    background-repeat: no-repeat;
+
+}
